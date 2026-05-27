@@ -1,31 +1,42 @@
 # Local Turístico
 
-Um site simples criado com HTML e CSS que apresenta destinos turísticos em Busan, Coreia do Sul.
+Site estático desenvolvido com HTML e CSS para apresentar destinos turísticos em Busan, Coreia do Sul.
 
-## Estrutura do projeto
+## Visão Geral
 
-- `index.html` — página principal do site
-- `style.css` — estilos e layout do site
-- `assets/` — imagens usadas nas seções do site
+Este projeto demonstra a construção de uma página de destino com conteúdo visual e descritivo organizado em seções. O layout foi elaborado para proporcionar uma leitura clara e uma experiência agradável para o visitante.
 
-## O que o projeto mostra
+## Visualização Online
 
-- Uso de estrutura semântica em HTML: `header`, `main`, `article` e `footer`
-- Conteúdo organizado por seções com headline e descrição
-- Imagens responsivas com `width: 100%` e `height: auto`
-- Estilização simples e limpa com cores suaves
+A página está disponível no GitHub Pages:
 
-## Tecnologias usadas
+- https://vkoithi.github.io/local-turistico/
+
+## Recursos
+
+- Estrutura semântica em HTML: `header`, `main`, `article`, `footer`
+- Layout limpo com tipografia consistente
+- Imagens responsivas para melhor adaptação em diferentes larguras de tela
+- Apresentação clara de destinos turísticos com descrições e destaques
+
+## Tecnologias utilizadas
 
 - HTML5
 - CSS3
 
-## Como executar
+## Estrutura do projeto
 
-1. Abra a pasta do projeto: `local-turistico`
-2. Abra o arquivo `index.html` no navegador
+- `index.html` — página principal do site
+- `style.css` — estilos e layout
+- `assets/` — imagens utilizadas no site
+
+## Como executar localmente
+
+1. Faça download ou clone este repositório.
+2. Navegue até a pasta do projeto: `local-turistico`
+3. Abra o arquivo `index.html` em um navegador web.
 
 
 ## Observações
 
-Este é um bom projeto para quem está aprendendo programação web. Ele demonstra organização, boa apresentação visual e uso adequado de HTML e CSS.
+Este projeto é uma excelente base para quem está aprendendo programação web. Ele mostra cuidados com organização de conteúdo e oferece espaço para evolução em design e responsividade.
